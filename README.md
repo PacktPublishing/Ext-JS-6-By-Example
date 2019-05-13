@@ -62,7 +62,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 *  Ext JS Essentials   Kindle Edition   [[Packt]](https://www.amazon.com/Ext-JS-Essentials-Stuart-Ashworth-ebook/dp/B00VQF59EK?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1784396621)
 
-*  [[Packt]](https://www.amazon.in/Ext-JS-Application-Development-Blueprints/dp/1784395307?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1784395307)
+* Ext JS Application Development Blueprints [[Packt]](https://www.amazon.in/Ext-JS-Application-Development-Blueprints/dp/1784395307?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1784395307)
 
 
 ## Get to Know the Author

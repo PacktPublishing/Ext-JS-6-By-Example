@@ -37,23 +37,6 @@ mainView: 'MyApp.view.main.Main'
 });
 ```
 
-**Following is what you need for this book:**
-0
-
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/0494OS_ColorImages.pdf).
 

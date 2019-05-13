@@ -1,0 +1,96 @@
+/*
+.hidden {
+    visibility: hidden;
+}
+*/
+/*
+
+.row:hover .hidden {
+    visibility: visible;
+    color: white;
+}
+*/
+/*x-title-text x-title-text-default x-title-item*/
+.x-title-text {
+    font-weight: 600;
+    font-size: 18px;
+    color: #BE702E;
+}
+.x-column-header-inner{
+    background-color: #DDD0D6;
+    font-weight: 600;
+    
+}
+.x-grid-cell-inner {
+/*    overflow: hidden;*/
+    padding: 15px 5px;
+/*    white-space: nowrap;*/
+ }
+
+.x-toolbar.x-docked {
+    background-color: #F5F5F5;
+}
+
+.btn-orange,
+.btn-orange.x-btn-focus.x-btn-default-small {
+    background-color: #F5923E;
+    border-color: #F5923E;
+    box-shadow: none;
+}
+
+.btn-orange.x-btn-over.x-btn-default-small, 
+.x-btn-default-small.x-item-disabled.x-btn-disabled {
+    border-color: #BE702E;
+    background-color: #BE702E;
+}
+/*
+
+.row:hover {
+    background-color: #92A7B1;
+    color: white;
+    font-weight: 800;
+}
+
+.row a,
+.row div {
+    background-color: transparent;
+        color: black;
+}
+
+.row a:hover,
+.row div:hover {
+    color: white;
+}
+*/
+
+
+/*
+.contact-list {
+    padding: 10px;
+    border-bottom: none;
+}
+*/
+
+/*
+.x-form-text-default {
+    height: 30px;
+}
+*/
+
+/*
+.contact-list .x-btn-default-small {
+    height: 32px;
+}
+*/
+
+.contact-list {
+    background-color: #69787F;
+    padding: 10px;
+/*    padding-bottom: 20px;*/
+}
+
+h1.header {
+    background-color: #69787F !important;
+    color: white  !important;
+    padding: 20px;
+}

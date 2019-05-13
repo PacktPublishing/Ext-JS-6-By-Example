@@ -1,0 +1,64 @@
+
+div.thumb{
+    float: left;
+}
+
+.x-toolbar.x-docked {
+      background-color: #BBACF0;
+      padding: 5px;
+      font-size: 12px;
+      font-weight: 600;
+}
+.tree .x-tree-node-text {
+    font-weight: 400;
+    font-size: 14px;
+    color: #BBACF0;
+}
+
+.btn-blue,
+.btn-blue.x-btn-focus.x-btn-default-small {
+    background-color: #5174E7;
+    border-color: #5174E7;
+    box-shadow: none;
+}
+
+.btn-blue.x-btn-over.x-btn-default-small, 
+.x-btn-default-small.x-item-disabled.x-btn-disabled {
+    border-color: #435FBD;
+    background-color: #435FBD;
+}
+
+
+.pics-list {
+    background-color: white;
+    padding: 0px 10px 10px 10px;
+    
+}
+.pics-list-content{
+    padding: 10px;
+    border-left: 0px !important;
+}
+
+.header {
+    background-color: mediumpurple;
+    color: white;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.tree, .pics-list-content {
+   border: 2px solid #BBACF0;
+}
+
+.thumb {
+    width:150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+img {
+    width:150px;
+    height: auto;
+    padding: 3px;
+}

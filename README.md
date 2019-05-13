@@ -58,7 +58,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/0494OS_ColorImages.pdf).
 
 ### Related products
-*  Follow the Author  [[Packt]](https://www.amazon.in/Mastering-Ext-JS-Loiane-Groner-ebook/dp/B00U01QQWU?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1782164006)
+*  Mastering Ext JS  [[Packt]](https://www.amazon.in/Mastering-Ext-JS-Loiane-Groner-ebook/dp/B00U01QQWU?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1782164006)
 
 *  Ext JS Essentials   Kindle Edition   [[Packt]](https://www.amazon.com/Ext-JS-Essentials-Stuart-Ashworth-ebook/dp/B00VQF59EK?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1784396621)
 

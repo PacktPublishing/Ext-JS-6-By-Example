@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Ext JS 6 By Example
 
 <a href="https://www.packtpub.com/web-development/ext-js-6-example?utm_source=github&utm_medium=repository&utm_campaign=9781783550494 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/0494OS_Ext%20JS%206%20By%20Example_.jpg" alt="Ext JS 6 By Example" height="256px" align="right"></a>
